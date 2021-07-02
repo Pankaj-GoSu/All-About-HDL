@@ -1,0 +1,50 @@
+|Full_substractor
+input_vector[0] => XOR_3:x1.C
+input_vector[0] => AND_2:a2.B
+input_vector[0] => AND_2:a3.B
+input_vector[1] => XOR_3:x1.B
+input_vector[1] => AND_2:a1.B
+input_vector[1] => AND_2:a3.A
+input_vector[2] => INVERTER:i1.A
+input_vector[2] => XOR_3:x1.A
+output_vector[0] << OR_3:o1.Y
+output_vector[1] << XOR_3:x1.Y
+
+
+|Full_substractor|INVERTER:i1
+A => Y.DATAIN
+Y <= A.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Full_substractor|XOR_3:x1
+A => Y.IN0
+B => Y.IN1
+C => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Full_substractor|AND_2:a1
+A => Y.IN0
+B => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Full_substractor|AND_2:a2
+A => Y.IN0
+B => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Full_substractor|AND_2:a3
+A => Y.IN0
+B => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Full_substractor|OR_3:o1
+A => Y.IN0
+B => Y.IN1
+C => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+

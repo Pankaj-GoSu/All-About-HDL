@@ -1,0 +1,579 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/simulation/modelsim
+Eand_2
+Z1 w1625245245
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Gates.vhd
+Z5 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Gates.vhd
+l0
+L67
+Vg?JgZd5_BC5X4BM9a^Qh:1
+!s100 XKNh>l[5TQMnLU7iI[FjI2
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1625251063
+!i10b 1
+Z8 !s108 1625251063.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Gates.vhd|
+Z10 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Gates.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Aequations
+R2
+R3
+DEx4 work 5 and_2 0 22 g?JgZd5_BC5X4BM9a^Qh:1
+l72
+L71
+VL1HI<S4197_4G@ZF]beSJ2
+!s100 ]VEMEE9hZHz6H=zfl>@C83
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_3
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L147
+V;Q[Y:Q=?JGgG?UBOXc9<z3
+!s100 S[j0ej85Na^9kZJa8N6<G3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 5 and_3 0 22 ;Q[Y:Q=?JGgG?UBOXc9<z3
+l153
+L151
+V>_6A7`KYIHOFa>S3U]S4L1
+!s100 jVDHH6lJZNImcHji6OTAl2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecomparator_2
+Z13 w1625251009
+Z14 DPx4 work 5 gates 0 22 [EmPWF?[Wc0M<O[0C>gnG3
+R2
+R3
+R0
+Z15 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Comparator_2.vhd
+Z16 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Comparator_2.vhd
+l0
+L6
+VU[RbNYLe5GD=X3RFGDeE01
+!s100 DQZ1z]2`<6dljPWDETH=G0
+R6
+31
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Comparator_2.vhd|
+Z18 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Comparator_2.vhd|
+!i113 1
+R11
+R12
+Aarch
+R14
+R2
+R3
+DEx4 work 12 comparator_2 0 22 U[RbNYLe5GD=X3RFGDeE01
+l17
+L13
+VIQTcK1I>VHTR8Y9m7[_?P3
+!s100 Nn0MheVjlazP]KW]TD7Oh2
+R6
+31
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Edut
+Z19 w1625250391
+R2
+R3
+R0
+Z20 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/DUT.vhd
+Z21 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/DUT.vhd
+l0
+L4
+V];?3EhKfjeniP?Iagb:f;3
+!s100 ihm=]oMXZ680ZaCKNfM=o0
+R6
+31
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/DUT.vhd|
+Z23 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/DUT.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 3 dut 0 22 ];?3EhKfjeniP?Iagb:f;3
+l18
+L11
+Vmo?3;1=843XKRdK[7?Y;?1
+!s100 Lo@80L547[62hO<[0f7i92
+R6
+31
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Pgates
+R2
+R3
+R1
+R0
+R4
+R5
+l0
+L4
+V[EmPWF?[Wc0M<O[0C>gnG3
+!s100 7<1fo8O3nHjU;GklTO6?A3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ehalf_adder
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L134
+V0nAGfehhXaDzgHXaijcJc2
+!s100 V3do`>CX>8aLCC6<NjI:S3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 10 half_adder 0 22 0nAGfehhXaDzgHXaijcJc2
+l139
+L138
+VPk?Gl1SVkj8B[1gnCdEIz1
+!s100 1_5PSEk[f]<j:DTZaiTgF0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Einverter
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L55
+VZ4ofL0kMVMkS24Z2591iH3
+!s100 i<eZ9aIzB23;6h2z6d6B@1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 8 inverter 0 22 Z4ofL0kMVMkS24Z2591iH3
+l60
+L59
+VI<c2LKL_:ancz6]Od5M:f2
+!s100 n3SKgN6InNidO8gBeIO0A3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Enand_2
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L78
+VNMWAl[MaoSfce28[8FB8E0
+!s100 _Q:m7?ozC_SI3<DegT92e3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 6 nand_2 0 22 NMWAl[MaoSfce28[8FB8E0
+l83
+L82
+V?SWCUREG70TE90R3X1GX;3
+!s100 n47`gK_N2zohC@g2MVYaH3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Enor_2
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L100
+VoM:QefP;<cX16TPGT]BET3
+!s100 CaD[HhOA1:9b2aY1Fg;9O1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 5 nor_2 0 22 oM:QefP;<cX16TPGT]BET3
+l105
+L104
+V_=?[Acz;FF3o_Eicb=8aD3
+!s100 5LdV3nmg;7kzV9P=9A>bF0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eor_2
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L89
+V:Q6;Yj0kcCfbE25h:n@A`0
+!s100 _DTPf<TL4neGg^X[Vn;WJ0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 4 or_2 0 22 :Q6;Yj0kcCfbE25h:n@A`0
+l94
+L93
+V1LlOaAacGoaU^hK5^WB3j2
+!s100 PGcNl]?e:aTa:6m0]HWkl1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eor_3
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L177
+VY9L7To6B]]Ml@PBUK2ZE[3
+!s100 MK4@=Q@o9OPG7IGRUGhT21
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 4 or_3 0 22 Y9L7To6B]]Ml@PBUK2ZE[3
+l185
+L183
+VLITmJG`Oj2bz4li]UhMB^1
+!s100 n>0lXRA7ON0jaN@mINWXW0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etestbench
+Z24 w1625247893
+R3
+R2
+R0
+Z25 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Testbench.vhd
+Z26 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Testbench.vhd
+l0
+L7
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R6
+31
+Z27 !s110 1625251064
+!i10b 1
+Z28 !s108 1625251064.000000
+Z29 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Testbench.vhd|
+Z30 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Comparator(compare 2-2 bits)/Testbench.vhd|
+!i113 1
+R11
+R12
+Abehave
+R3
+R2
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+l69
+L9
+VnfPXEJL[J=2o79aLSK7<T0
+!s100 ;0J_`f:hg]6NC6kHW:kQB3
+R6
+31
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R11
+R12
+Exnor_2
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L123
+VcOVO@K7k>08jaDEkSBD5Q2
+!s100 e^WX?`bgjMINECY57LiNZ1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 6 xnor_2 0 22 cOVO@K7k>08jaDEkSBD5Q2
+l128
+L127
+VflI69nNX1APDZbR85J:EL0
+!s100 ^[Vn@GSJ7L=OWT?nP0D4U0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Exor_2
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L112
+VB<1<;@Ul3^=jAkljCIIWX0
+!s100 9Ti>dg66]I;l:Hj5IM:5@1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 5 xor_2 0 22 B<1<;@Ul3^=jAkljCIIWX0
+l117
+L116
+VeDQOSGjm5Ja7omjNNS3le0
+!s100 ]Fee7kRXd6ZH3nb6B023o2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Exor_3
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L160
+VVjokmaUh8D^ESOc:8Pn5n1
+!s100 ]TfAjaf>i1BfaCk^3[jWN0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aequations
+R2
+R3
+DEx4 work 5 xor_3 0 22 VjokmaUh8D^ESOc:8Pn5n1
+l168
+L166
+V4RagggI4]^kP]kREUXh540
+!s100 F]GeRm]C<MQT<=AAlVFiz3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12

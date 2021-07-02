@@ -21,9 +21,9 @@ Vg?JgZd5_BC5X4BM9a^Qh:1
 !s100 XKNh>l[5TQMnLU7iI[FjI2
 Z6 OV;C;10.5b;63
 31
-Z7 !s110 1625241763
+Z7 !s110 1625243599
 !i10b 1
-Z8 !s108 1625241763.000000
+Z8 !s108 1625243599.000000
 Z9 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Gates.vhd|
 Z10 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Gates.vhd|
 !i113 1
@@ -100,11 +100,11 @@ Vc[Pm`;Q8ZBPBn23glm9MT1
 !s100 lQm9N8SQ_aK@AR0CkI=V40
 R6
 31
-Z17 !s110 1625241764
+R7
 !i10b 1
-Z18 !s108 1625241764.000000
-Z19 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Full_substractor.vhd|
-Z20 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Full_substractor.vhd|
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Full_substractor.vhd|
+Z18 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Full_substractor.vhd|
 !i113 1
 R11
 R12
@@ -119,11 +119,11 @@ Vg<B^82VZCNQ@ocmdTlNOC2
 !s100 Jm?E2oXC[7E]DA2@J`8LU1
 R6
 31
-R17
+R7
 !i10b 1
+R8
+R17
 R18
-R19
-R20
 !i113 1
 R11
 R12
@@ -223,45 +223,6 @@ R7
 R8
 R9
 R10
-!i113 1
-R11
-R12
-Emy_tb
-Z21 w1625241741
-R2
-R3
-R0
-Z22 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/my_tb.vhd
-Z23 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/my_tb.vhd
-l0
-L4
-VicCzzaOPleCRK6J_=_B[n2
-!s100 ?UJObz]glS[]gNj?1Lf2m0
-R6
-31
-R17
-!i10b 1
-R18
-Z24 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/my_tb.vhd|
-Z25 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/my_tb.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 5 my_tb 0 22 icCzzaOPleCRK6J_=_B[n2
-l17
-L7
-VgYSUVJZIHT;E:1[magcKn0
-!s100 XG[Z<aCJfok<g=<J7cYTj0
-R6
-31
-R17
-!i10b 1
-R18
-R24
-R25
 !i113 1
 R11
 R12
@@ -418,6 +379,45 @@ R7
 R8
 R9
 R10
+!i113 1
+R11
+R12
+Etestbench
+Z19 w1625242431
+R3
+R2
+R0
+Z20 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Testbench.vhd
+Z21 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Testbench.vhd
+l0
+L7
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R6
+31
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Testbench.vhd|
+Z23 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Full Subtractor/Testbench.vhd|
+!i113 1
+R11
+R12
+Abehave
+R3
+R2
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+l69
+L9
+V1GdeNQKFG]AbDkS0d8aMT3
+!s100 [Wj^RTK><Je@_7ai5Bj_;1
+R6
+31
+R7
+!i10b 1
+R8
+R22
+R23
 !i113 1
 R11
 R12

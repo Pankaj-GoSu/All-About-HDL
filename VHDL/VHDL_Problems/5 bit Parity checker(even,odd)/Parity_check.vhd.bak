@@ -1,0 +1,23 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Parity_check is 
+
+	port (A : in std_logic_vector( 4 downto 0) ;
+			odd , even : out std_logic);
+			
+end entity;
+
+
+architecture arch of Parity_check is
+
+signal a1,a2;
+
+begin 
+
+x1 : XOR_3 port map(A(4),A(3),A(2),a1);
+x2 : XOR_3 port map(a1,A(1),A(0),odd);
+
+i1 : INVERTER(odd,even);
+
+end arch;

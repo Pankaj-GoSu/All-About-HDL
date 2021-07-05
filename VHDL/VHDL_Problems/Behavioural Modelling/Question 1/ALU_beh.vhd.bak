@@ -1,0 +1,48 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity ALU_beh is 
+
+	port (A,B : in std_logic_vector(3 downto 0);
+			Y : out std_logic_vector(5 downto 0));
+			
+end entity;
+
+
+architecture arch of ALU_beh is 
+
+	function div(A: std_logic_vector ; B: std_logic_vector)
+	 return std_logic_vector is
+	 variable is_div : std_logic_vector(3 downto 0) := (others => '0');
+	 
+		if ((A(3) xnor A(2) xnor A(1) xnor A(0)) = '1') then
+				return A;
+		elsif ((B(3) xnor B(2) xnor B(1) xnor B(0)) = '1') then
+				return B;
+		else
+				return is_div;
+		end if;
+		
+	end div;
+	
+begin
+ 
+	process (A,B)
+	
+	begin
+		if ((B(3) = '0') and (B(2) = '0')) then
+			Y <= "00" & (A+A+A);
+		elsif ((B(3) = '0') and (B(2) = '1')) then
+			Y <= "00" & div(A,B);
+		elsif ((B(3) = '1') and (B(2) = '0')) then
+			Y <= "00" & (A xor B);
+		elsif ((B(3) = '1') and (B(2) = '1')) then
+			Y <= "00" & (A + '0001');
+		else
+			Y <= (others => '0');
+	end if;
+	end process;
+	
+end arch;
+			
+		

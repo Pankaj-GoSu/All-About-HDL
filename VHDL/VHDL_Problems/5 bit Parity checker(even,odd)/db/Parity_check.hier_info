@@ -1,0 +1,38 @@
+|Parity_check
+A[0] => XOR_3:x2.C
+A[0] => XOR_3:x3.C
+A[1] => XOR_3:x2.B
+A[1] => XOR_3:x3.B
+A[2] => XOR_3:x1.C
+A[3] => XOR_3:x1.B
+A[4] => XOR_3:x1.A
+even << INVERTER:i1.Y
+odd << XOR_3:x2.Y
+
+
+|Parity_check|XOR_3:x1
+A => Y.IN0
+B => Y.IN1
+C => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Parity_check|XOR_3:x2
+A => Y.IN0
+B => Y.IN1
+C => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Parity_check|XOR_3:x3
+A => Y.IN0
+B => Y.IN1
+C => Y.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Parity_check|INVERTER:i1
+A => Y.DATAIN
+Y <= A.DB_MAX_OUTPUT_PORT_TYPE
+
+

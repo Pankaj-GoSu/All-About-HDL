@@ -1,0 +1,131 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/simulation/modelsim
+Ealu_beh
+Z1 w1625485839
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/ALU_beh.vhd
+Z7 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/ALU_beh.vhd
+l0
+L5
+VIYPR4J7f7a4XWAXn`1WO[2
+!s100 b2fYl5Z80gHVOf9z>1HUz2
+Z8 OV;C;10.5b;63
+31
+Z9 !s110 1625485862
+!i10b 1
+Z10 !s108 1625485862.000000
+Z11 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/ALU_beh.vhd|
+Z12 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/ALU_beh.vhd|
+!i113 1
+Z13 o-93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+R4
+R5
+DEx4 work 7 alu_beh 0 22 IYPR4J7f7a4XWAXn`1WO[2
+l27
+L13
+V_`_9hV6HcSaUYnL[BTXmK2
+!s100 bRaaAh4nAEo0>iXMYTHHQ3
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Edut
+Z15 w1625484584
+R4
+R5
+R0
+Z16 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/DUT.vhd
+Z17 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/DUT.vhd
+l0
+L4
+VnBZ=:ENg^YEU^h1MOmQ9z1
+!s100 4k?Gf^`1;SN]1SY=@lM=33
+R8
+31
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/DUT.vhd|
+Z19 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/DUT.vhd|
+!i113 1
+R13
+R14
+Adutwrap
+R4
+R5
+DEx4 work 3 dut 0 22 nBZ=:ENg^YEU^h1MOmQ9z1
+l19
+L11
+VT2YjCgZD]9z4T6[5NdT?`2
+!s100 SfbCCB@i8LiK__OL`o`GL1
+R8
+31
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Etestbench
+Z20 w1625484667
+R5
+R4
+R0
+Z21 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/Testbench.vhd
+Z22 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/Testbench.vhd
+l0
+L7
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R8
+31
+R9
+!i10b 1
+R10
+Z23 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/Testbench.vhd|
+Z24 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/Testbench.vhd|
+!i113 1
+R13
+R14
+Abehave
+R5
+R4
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+l69
+L9
+VcfzYFL`M2dnHzR=ze3?4I2
+!s100 @hPL<YhO9dTTb=2iMjmFP3
+R8
+31
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14

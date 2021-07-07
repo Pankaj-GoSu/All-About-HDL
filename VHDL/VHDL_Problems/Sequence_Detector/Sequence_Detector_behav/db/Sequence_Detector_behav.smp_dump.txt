@@ -1,0 +1,10 @@
+
+State Machine - |DUT|Sequence_Detector_behav:seq_instance|present_state
+Name present_state.s1 present_state.s11 present_state.s110 present_state.s001 present_state.s00 present_state.s0 present_state.rst 
+present_state.rst 0 0 0 0 0 0 0 
+present_state.s0 0 0 0 0 0 1 1 
+present_state.s00 0 0 0 0 1 0 1 
+present_state.s001 0 0 0 1 0 0 1 
+present_state.s110 0 0 1 0 0 0 1 
+present_state.s11 0 1 0 0 0 0 1 
+present_state.s1 1 0 0 0 0 0 1 

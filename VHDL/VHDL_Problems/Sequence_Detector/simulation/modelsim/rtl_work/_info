@@ -1,0 +1,189 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/simulation/modelsim
+Ed_ff
+Z1 w1625635972
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/D_FF.vhd
+Z5 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/D_FF.vhd
+l0
+L18
+VM>zCE4]]hChMO]2`Yl5zn2
+!s100 ZZ@FCd[DM;^2;MHOYzKOj2
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1625645652
+!i10b 1
+Z8 !s108 1625645652.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/D_FF.vhd|
+Z10 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/D_FF.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+DEx4 work 4 d_ff 0 22 M>zCE4]]hChMO]2`Yl5zn2
+l27
+L25
+VgXJmeE9Y_eia<0CP8zP?G1
+!s100 2okLVe^iz]gB_h_6nl@EI2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Pdflipflop
+R2
+R3
+R1
+R0
+R4
+R5
+l0
+L4
+Vg9M?l7;KRCgZ>gPPN27l93
+!s100 PCEnJSDG9M4<F7mWBAVBD3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edut
+Z13 w1625635683
+R2
+R3
+R0
+Z14 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/DUT.vhd
+Z15 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/DUT.vhd
+l0
+L7
+V@CVI_CN6@<]2K_f;?IjX^1
+!s100 1fIVLERC0E0ZH1eo7gF9`1
+R6
+31
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/DUT.vhd|
+Z17 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/DUT.vhd|
+!i113 1
+R11
+R12
+Adutwrap
+R2
+R3
+DEx4 work 3 dut 0 22 @CVI_CN6@<]2K_f;?IjX^1
+l17
+L12
+V>jP4IMXALRn4T:jjVl4CG0
+!s100 cBDgZ5bSlUYmiVU<92UeK2
+R6
+31
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Esequence_detector_struc
+Z18 w1625638284
+Z19 DPx4 work 9 dflipflop 0 22 g9M?l7;KRCgZ>gPPN27l93
+R2
+R3
+R0
+Z20 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/Sequence_detector_struc.vhd
+Z21 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/Sequence_detector_struc.vhd
+l0
+L6
+V2GhYHljZ48`cMZ2k^:YF41
+!s100 PSEKU86:F9df9GHOg;F1=0
+R6
+31
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/Sequence_detector_struc.vhd|
+Z23 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/Sequence_detector_struc.vhd|
+!i113 1
+R11
+R12
+Aarch
+R19
+R2
+R3
+DEx4 work 23 sequence_detector_struc 0 22 2GhYHljZ48`cMZ2k^:YF41
+l17
+L13
+V18A@Y4neZdKQS`HonLJJB0
+!s100 1cODXmKKLL<D]6GD2bZmD3
+R6
+31
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Etestbench
+Z24 w1625634082
+R3
+R2
+R0
+Z25 8D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/Testbench.vhd
+Z26 FD:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/Testbench.vhd
+l0
+L7
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R6
+31
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-93|-work|work|D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/Testbench.vhd|
+Z28 !s107 D:/Code For Life/HDL/VHDL/VHDL_Problems/Sequence_Detector/Testbench.vhd|
+!i113 1
+R11
+R12
+Abehave
+R3
+R2
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+l69
+L9
+V35T90MSzo=jMe^HDQ:LV;1
+!s100 @]HoRND;NARCKg?3fU7Io1
+R6
+31
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12

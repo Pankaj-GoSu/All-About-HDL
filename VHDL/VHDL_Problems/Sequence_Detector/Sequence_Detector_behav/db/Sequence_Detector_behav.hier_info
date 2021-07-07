@@ -1,0 +1,27 @@
+|DUT
+input_vector[0] => Sequence_Detector_behav:seq_instance.clk
+input_vector[1] => Sequence_Detector_behav:seq_instance.inp
+input_vector[2] => Sequence_Detector_behav:seq_instance.reset
+output_vector[0] << Sequence_Detector_behav:seq_instance.Y
+
+
+|DUT|Sequence_Detector_behav:seq_instance
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+inp => next_state.s001.DATAB
+inp => next_state.s11.DATAB
+inp => next_state.s1.DATAB
+inp => Selector2.IN3
+inp => Selector1.IN0
+inp => Selector2.IN1
+inp => Selector0.IN1
+inp => next_state.s110.DATAB
+clk => present_state~1.DATAIN
+Y <= Selector2.DB_MAX_OUTPUT_PORT_TYPE
+
+

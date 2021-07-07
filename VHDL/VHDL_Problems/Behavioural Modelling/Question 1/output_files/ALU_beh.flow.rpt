@@ -1,5 +1,5 @@
 Flow report for ALU_beh
-Mon Jul 05 17:20:50 2021
+Wed Jul 07 14:26:24 2021
 Quartus Prime Version 18.1.1 Build 646 04/11/2019 SJ Lite Edition
 
 
@@ -41,7 +41,7 @@ https://fpgasoftware.intel.com/eula.
 +---------------------------------------------------------------------+
 ; Flow Summary                                                        ;
 +-----------------------+---------------------------------------------+
-; Flow Status           ; Successful - Mon Jul 05 17:20:50 2021       ;
+; Flow Status           ; Successful - Wed Jul 07 14:26:24 2021       ;
 ; Quartus Prime Version ; 18.1.1 Build 646 04/11/2019 SJ Lite Edition ;
 ; Revision Name         ; ALU_beh                                     ;
 ; Top-level Entity Name ; DUT                                         ;
@@ -60,7 +60,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 07/05/2021 17:20:41 ;
+; Start date & time ; 07/07/2021 14:26:15 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; ALU_beh             ;
 +-------------------+---------------------+
@@ -71,7 +71,7 @@ https://fpgasoftware.intel.com/eula.
 +--------------------------------------+--------------------------------+---------------+-------------+-----------------------------------+
 ; Assignment Name                      ; Value                          ; Default Value ; Entity Name ; Section Id                        ;
 +--------------------------------------+--------------------------------+---------------+-------------+-----------------------------------+
-; COMPILER_SIGNATURE_ID                ; 10995770589199.162548584131840 ; --            ; --          ; --                                ;
+; COMPILER_SIGNATURE_ID                ; 10995770589199.162564817510152 ; --            ; --          ; --                                ;
 ; EDA_DESIGN_INSTANCE_NAME             ; dut_instance                   ; --            ; --          ; Testbench                         ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST      ; Off                            ; --            ; --          ; eda_board_design_timing           ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST      ; Off                            ; --            ; --          ; eda_board_design_boundary_scan    ;
@@ -99,7 +99,7 @@ https://fpgasoftware.intel.com/eula.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:00:09     ; 1.0                     ; 4748 MB             ; 00:00:22                           ;
+; Analysis & Synthesis ; 00:00:09     ; 1.0                     ; 4752 MB             ; 00:00:22                           ;
 ; Total                ; 00:00:09     ; --                      ; --                  ; 00:00:22                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 

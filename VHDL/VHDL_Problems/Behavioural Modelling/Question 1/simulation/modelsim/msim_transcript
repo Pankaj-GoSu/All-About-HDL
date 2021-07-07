@@ -12,7 +12,7 @@
 # 
 # vcom -93 -work work {D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/ALU_beh.vhd}
 # Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 17:21:02 on Jul 05,2021
+# Start time: 14:26:42 on Jul 07,2021
 # vcom -reportprogress 300 -93 -work work D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/ALU_beh.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -21,35 +21,35 @@
 # -- Loading package STD_LOGIC_UNSIGNED
 # -- Compiling entity ALU_beh
 # -- Compiling architecture arch of ALU_beh
-# End time: 17:21:02 on Jul 05,2021, Elapsed time: 0:00:00
+# End time: 14:26:42 on Jul 07,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work work {D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/DUT.vhd}
 # Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 17:21:02 on Jul 05,2021
+# Start time: 14:26:42 on Jul 07,2021
 # vcom -reportprogress 300 -93 -work work D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/DUT.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity DUT
 # -- Compiling architecture DutWrap of DUT
-# End time: 17:21:02 on Jul 05,2021, Elapsed time: 0:00:00
+# End time: 14:26:42 on Jul 07,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vcom -93 -work work {D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/Testbench.vhd}
 # Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 17:21:02 on Jul 05,2021
+# Start time: 14:26:42 on Jul 07,2021
 # vcom -reportprogress 300 -93 -work work D:/Code For Life/HDL/VHDL/VHDL_Problems/Behavioural Modelling/Question 1/Testbench.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity Testbench
 # -- Compiling architecture Behave of Testbench
-# End time: 17:21:02 on Jul 05,2021, Elapsed time: 0:00:00
+# End time: 14:26:42 on Jul 07,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L maxv -L rtl_work -L work -voptargs="+acc"  Testbench
 # vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L maxv -L rtl_work -L work -voptargs=""+acc"" Testbench 
-# Start time: 17:21:02 on Jul 05,2021
+# Start time: 14:26:42 on Jul 07,2021
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
@@ -67,5 +67,5 @@
 # run -all
 # ** Note: SUCCESS, all tests passed.
 #    Time: 3584 ns  Iteration: 0  Instance: /testbench
-# End time: 17:21:26 on Jul 05,2021, Elapsed time: 0:00:24
+# End time: 14:26:57 on Jul 07,2021, Elapsed time: 0:00:15
 # Errors: 0, Warnings: 0
